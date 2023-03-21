@@ -9,15 +9,15 @@ import Box from './component/Box'
 const choice = {
   scissors : {
     name : "Scissors",
-    img : "https://blog.kakaocdn.net/dn/HfURw/btqXKvOTNWK/gWTwPXEg9QzSV0ilOuwuak/img.png",
+    img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtZOIPMrEps54-OsxSI1J50Pr5znQx6lDaA&usqp=CAU",
   },
   rock : {
     name : "Rock",
-    img : "https://mblogthumb-phinf.pstatic.net/MjAyMTA1MTNfMjQ2/MDAxNjIwOTA5OTExMjkw.e_U3Ab4mFI5Diz6ZMZjt-rih9D3izham8N2Kty1KGVog.PiOhO9TO7ZDiOiRH6YtjVr-gzYN_Mo6P1yHAcHmpAsEg.PNG.ysg3355/image.png?type=w800",
+    img : "https://nationaltoday.com/wp-content/uploads/2021/08/National-Pet-Rock-Day.jpg",
   },
   paper : {
     name : "Paper",
-    img : "https://blog.kakaocdn.net/dn/bmjB2s/btqXHhp6kpG/TH14W4U612SxKo9uuR2sB0/img.png",
+    img : "https://dictionary.cambridge.org/ko/images/thumb/paper_noun_002_26402.jpg?version=5.0.305",
   },
 };
 
